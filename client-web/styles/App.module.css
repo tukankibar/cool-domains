@@ -1,0 +1,12 @@
+.container {
+  height: 100vh;
+  background-color: #0d1116;
+  text-align: center;
+  color: white;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+}
+
+.main {
+}
