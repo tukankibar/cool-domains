@@ -1,0 +1,20 @@
+.container {
+  padding-top: 30px;
+}
+
+.leftContainer {
+  text-align: left;
+  margin-left: 10%;
+}
+
+.title {
+  margin: 0;
+  font-size: 35px;
+  font-weight: bold;
+  color: white;
+}
+
+.subtitle {
+  font-size: 25px;
+  color: white;
+}
