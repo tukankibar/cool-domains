@@ -4,7 +4,12 @@
 
 .leftContainer {
   text-align: left;
-  margin-left: 10%;
+  margin-left: 5%;
+}
+
+.rightContainer {
+  text-align: right;
+  margin-right: 5%;
 }
 
 .title {
